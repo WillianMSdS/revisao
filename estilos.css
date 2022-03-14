@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=League+Gothic&family=Mukta:wght@200;300;400;500;600;700;800&family=Oswald:wght@200;300;400;500;600;700&display=swap');
+
+body{
+    background-color:rgba(199, 31, 31, 0.466);
+    color:brown;
+    font-family:'Gothic'
+}
+
+.titulo{
+    color:rgba(206, 30, 30, 0.836);
+    font-family:'Oswald'
+}
+
+.subtitulo{
+    color:rgba(194, 26, 26, 0.61);
+    font-family:'Mukta'
+}
+
+.frase{
+    Width: 400px;
+    border: 2px solid white;
+    padding: 20px;
+    margin: auto;
+    border-radius: 20px;
+    background-color: black; 
+    color: white;
+    font-size: 16px;
+}
+
+.figuras{
+    width:200px;
+    height:200px;
+    border: 1px solid black;
+    padding:5px;
+    background: white;
+    border-radius:5px;
+    margin-right:10px;
+    object-fit: cover;
+}
+
+a{
+    color:pink
+}
+
+a:hover{
+    color: black
+}
